@@ -1,7 +1,8 @@
-# 💫 About Me:
-Hello All , I'm Aspiring engineer currently in 3rd year B.Tech Computer Science (IoT) with hands-on experience in
+# 💫 Hi I'm Narenkumar C
+I'm Aspiring engineer currently in 3rd year B.Tech Computer Science (IoT) with hands-on experience in
 full-stack development, embedded systems, and AI-powered tools.
-
+<br> 🔭Here's My [Portfoilo](https://narenkumarchandran.github.io/portfolio/)
+<br>🌱 I’m currently learning and Teaching DSA and Integrating AI to my workflow
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/narenkumarchandran/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Narenkumar2412) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@narenkumararts) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:narenkumarchandran@gmail.com) 
 
@@ -12,7 +13,13 @@ full-stack development, embedded systems, and AI-powered tools.
 ![](https://nirzak-streak-stats.vercel.app/?user=narenkumarchandran&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=narenkumarchandran&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Dev Quote
+# 📊 Leetcode:
+![LeetCode Stats](https://leetcard.jacoblin.cool/naren2412?theme=dark&font=Advent%20Pro)
+
+# 👨‍💻 My Activity:
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=narenkumarchandran&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+### ✍️ Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
