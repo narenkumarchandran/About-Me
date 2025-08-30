@@ -23,5 +23,7 @@ full-stack development, embedded systems, and AI-powered tools.
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=narenkumarchandran&icon=0&color=6)](https://visitcount.itsvg.in)
+## 📊 Visitor Count
+
+![](https://komarev.com/ghpvc/?username=aadithyaa9&style=flat-square)
 
