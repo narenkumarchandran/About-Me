@@ -2,7 +2,7 @@
 I'm Aspiring engineer currently in 3rd year B.Tech Computer Science (IoT) with hands-on experience in
 full-stack development, embedded systems, and AI-powered tools.
 <br> 🔭Here's My [Portfoilo](https://narenkumarchandran.github.io/portfolio/)
-<br>🌱 I’m currently learning and Teaching DSA and Integrating AI to my workflow
+<br>🌱 I’m currently learning DSA and Buliding Projects
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/narenkumarchandran/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Narenkumar2412) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@narenkumararts) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:narenkumarchandran@gmail.com) 
 
